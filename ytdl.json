@@ -1,0 +1,7 @@
+{
+  "name": "ytdl",
+  "description": "Example host for native messaging",
+  "path": "C:\\",
+  "type": "stdio",
+  "allowed_extensions": [ "downloader@petar.com" ]
+}
